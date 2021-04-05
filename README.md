@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, Computer Networking, Systems Administration and Internet/Network Security.
 - 🌱 I’m currently learning Software Development on Windows and Linux based Systems.
 - 💞️ I’m looking to collaborate with various Software Developers, SysAdmins and Network Security Engineers. 
-- 📫 How to reach me nasheeg.techworks@gmail.com
+- 📫 How to reach me nash.techworks@outlook.com
 
 <!---
 NashTechCPT/NashTechCPT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
